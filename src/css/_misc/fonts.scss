@@ -1,0 +1,79 @@
+
+
+// @font-face {
+// 	font-family: 'Roboto';
+// 	src: url('../../fonts/roboto-regular-webfont.woff') format('woff'),
+// 			 url('../../fonts/roboto-regular-webfont.woff2') format('woff2');
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: 'Roboto';
+// 	src: url('../../fonts/roboto-bold-webfont.woff') format('woff'),
+// 			 url('../../fonts/roboto-bold-webfont.woff2') format('woff2');
+// 	font-weight: bold;
+// 	font-style: normal;
+// }
+
+// @font-face {
+// 	font-family: 'Roboto';
+// 	src: url('../../fonts/roboto-black-webfont.woff') format('woff'),
+// 			 url('../../fonts/roboto-black-webfont.woff2') format('woff2');
+// 	font-weight: black;
+// 	font-style: normal;
+// }
+
+
+// @font-face {
+// 	font-family: 'swis';
+// 	src: url('../../fonts/Swis721_BdCnOul_BT_Bold_Outline.eot');
+// 	src: local('☺'), url('../../fonts/Swis721_BdCnOul_BT_Bold_Outline.woff') format('woff'), url('../../fonts/Swis721_BdCnOul_BT_Bold_Outline.ttf') format('truetype'), url('../../fonts/Swis721_BdCnOul_BT_Bold_Outline.svg') format('svg');
+// 	font-weight: 900;
+// 	font-style: normal;
+// }
+
+@font-face {
+	font-family: 'swis';
+	src: url('../../fonts/Swis721_BlkOul_BT_Black.eot');
+	src: local('☺'), url('../../fonts/Swis721_BlkOul_BT_Black.woff') format('woff'), url('../../fonts/Swis721_BlkOul_BT_Black.ttf') format('truetype'), url('../../fonts/Swis721_BlkOul_BT_Black.svg') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'bicubic';
+	src: url('../../fonts/8705.eot');
+	src: local('☺'), url('../../fonts/8705.woff') format('woff'), url('../../fonts/8705.ttf') format('truetype'), url('../../fonts/8705.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'heliosc';
+	src: url('../../fonts/HeliosCondRegular.eot');
+	src: local('☺'), url('../../fonts/HeliosCondRegular.woff') format('woff'), url('../../fonts/HeliosCondRegular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'jura';
+	src: url('../../fonts/Jura-Regular.eot');
+	src: local('☺'), url('../../fonts/Jura-Regular.woff') format('woff'), url('../../fonts/Jura-Regular.ttf') format('truetype'), url('../../fonts/Jura-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+// @mixin swis($weight: normal) {
+// 	font-family: 'Roboto', Helvetica, sans-serif;
+//   font-style: normal;
+// 	line-height: 1;
+// 	@if $weight == normal {
+// 		font-weight: 400;
+// 	}
+	
+// 	@if $weight == bold {
+// 		font-weight: 700;
+// 	}
+
+// 	@if $weight == black {
+// 		font-weight: 900;
+// 	}
+// }
